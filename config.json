@@ -1,0 +1,16 @@
+{
+ "whisper_engine": "auto",
+ "mlx_model": "mlx-community/whisper-large-v3-turbo",
+ "faster_whisper_model": "large-v3",
+ "source_language": "en",
+ "translate_engine": "manual",
+ "anthropic_model": "claude-sonnet-4-5",
+ "chunk_size": 25,
+ "context_lines": 3,
+ "subtitle_mode": "soft",
+ "hardsub_font_size": 22,
+ "max_chars_per_line": 20,
+ "max_lines": 2,
+ "keep_english_srt": true,
+ "delete_input_after_success": false
+}
